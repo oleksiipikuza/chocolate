@@ -596,7 +596,7 @@ blockquote span {
 }
 .blog {
 	width: 305px;
-	text-align: left;
+	text-align: center;
 	font-size: 14px;
 	padding: 10px;
 }
