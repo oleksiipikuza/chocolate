@@ -1,0 +1,5 @@
+User-agent: *
+Sitemap: http://home-chocolate.com.ua/sitemap.xml
+# wa shop *
+Disallow:
+# wa shop
