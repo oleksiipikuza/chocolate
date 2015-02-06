@@ -188,6 +188,12 @@ a {
 	float: left;
 	width: 737px;
 }
+.pageText {
+	text-align: center;
+}
+.pageTextRight {
+	text-align: right;
+}
 .reservations {
 	float: right;
 	width: 200px;
